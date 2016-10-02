@@ -1,9 +1,9 @@
-package com.rainmaker.interviewprep.cracking.queues;
+package com.rainmaker.interviewprep.cracking.common;
 
 
 import java.util.Stack;
 
-class MyQueue<E> {
+public class MyQueue<E> {
         Stack<E> inbox = new Stack<E>();
         Stack<E> outbox = new Stack<E>();
 

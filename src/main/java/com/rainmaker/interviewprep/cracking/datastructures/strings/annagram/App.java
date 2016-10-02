@@ -1,4 +1,4 @@
-package com.rainmaker.interviewprep.cracking.strings.annagram;
+package com.rainmaker.interviewprep.cracking.datastructures.strings.annagram;
 
 
 import java.util.Scanner;

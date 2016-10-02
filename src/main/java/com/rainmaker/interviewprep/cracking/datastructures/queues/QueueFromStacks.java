@@ -1,4 +1,6 @@
-package com.rainmaker.interviewprep.cracking.queues;
+package com.rainmaker.interviewprep.cracking.datastructures.queues;
+
+import com.rainmaker.interviewprep.cracking.common.MyQueue;
 
 import java.util.Scanner;
 

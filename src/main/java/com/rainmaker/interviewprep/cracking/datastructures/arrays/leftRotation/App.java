@@ -1,4 +1,4 @@
-package com.rainmaker.interviewprep.cracking.arrays.leftRotation;
+package com.rainmaker.interviewprep.cracking.datastructures.arrays.leftRotation;
 
 
 import java.util.Scanner;

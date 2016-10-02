@@ -1,4 +1,4 @@
-package com.rainmaker.interviewprep.cracking.hashtables;
+package com.rainmaker.interviewprep.cracking.datastructures.hashtables;
 
 import java.util.*;
 

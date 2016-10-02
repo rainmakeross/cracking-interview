@@ -1,4 +1,4 @@
-package com.rainmaker.interviewprep.cracking.stacks;
+package com.rainmaker.interviewprep.cracking.datastructures.stacks;
 
 import java.util.Scanner;
 import java.util.Stack;

@@ -1,12 +1,14 @@
-package com.rainmaker.interviewprep.cracking.linkedlists;
+package com.rainmaker.interviewprep.cracking.datastructures.linkedlists;
+
+import com.rainmaker.interviewprep.cracking.common.BasicNode;
 
 /**
  * Created by dyinanc on 9/27/16.
  */
 public class DetectCycle {
-    boolean hasCycle(Node head) {
-        Node first = head;
-        Node second = head;
+    boolean hasCycle(BasicNode head) {
+        BasicNode first = head;
+        BasicNode second = head;
         while(true) {
             if(first.next == null || second.next == null) {
                 return false;
